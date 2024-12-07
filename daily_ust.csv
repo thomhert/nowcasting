@@ -1,4 +1,4 @@
-DATE,yield_ust,CPI,Unemployment_Rate,GDP_Growth_Rate,S&P500_Index,VIX_Index,Brent_Oil_Price,Euro_Bond_Yield,Dollar_Index
+date,yield_ust,CPI,Unemployment_Rate,GDP_Growth_Rate,S&P500_Index,VIX_Index,Brent_Oil_Price,Euro_Bond_Yield,Dollar_Index
 2019-12-05,1.8,251.58,4.2,-0.07,3527.17,30.02,97.77,2.23,95.42
 2019-12-06,1.84,296.81,4,-0.45,3565.2,16.42,63.26,1.06,94.95
 2019-12-07,1.83,252.6,5.1,1.77,3963.93,16.6,104.92,2.4,91.25
